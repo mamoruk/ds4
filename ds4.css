@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(http://mamoru.top/NEW/base.png);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(http://mamoru.top/NEW/disconnected.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/disconnected.svgz);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(http://mamoru.top/NEW/triggers.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/triggers.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(http://mamoru.top/NEW/bumper.svgz) no-repeat;
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/bumper.svgz) no-repeat;
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(http://mamoru.top/NEW/touchpad.svgz) no-repeat center;
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/touchpad.svgz) no-repeat center;
 }
 
 .custom .meta {
@@ -89,7 +89,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(http://mamoru.top/NEW/meta.svgz) no-repeat center;
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/meta.svgz) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(http://mamoru.top/NEW/start.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(http://mamoru.top/NEW/face.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/face.svgz);
 }
 
 .custom .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(http://mamoru.top/NEW/sticks.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/sticks.svgz);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(http://mamoru.top/NEW/dpad.svgz);
+    background: url(https://raw.githubusercontent.com/mamoruk/ds4/master/dpad.svgz);
     position: absolute;
 }
 
